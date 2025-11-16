@@ -57,3 +57,14 @@ Peak Viewing Times: Highest engagement occurs between 18:00–21:00, with weeken
 Monthly Trends: Viewership spikes in certain months, likely linked to content releases or marketing campaigns.
 
 User Retention: The majority of users return multiple times per week, indicating strong ongoing engagement.
+
+# Tools Used
+
+**Planning:** Miro
+
+**Data Processing Platform:** Snowflake
+
+**Data Visualization:** Microsoft Excel
+
+**Presentation:** Microsoft PowerPoint
+
